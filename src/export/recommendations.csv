@@ -1,0 +1,17 @@
+id,nickname_peer,nickname_recommend_peer
+1,garroshm,wilfredo
+2,garroshm,cherryls
+3,suzibill,garroshm
+4,suzibill,fixierad
+5,suzibill,shontagr
+6,casimira,wilfredo
+7,casimira,suzibill
+8,shontagr,flossiek
+9,shontagr,casimira
+10,wilfredo,cherryls
+11,fixierad,flossiek
+12,fixierad,casimira
+13,cherryls,suzibill
+14,cherryls,shontagr
+15,flossiek,cherryls
+16,flossiek,wilfredo
